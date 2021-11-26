@@ -12,7 +12,7 @@ The code has been changed to use Vue 3 syntax. Check the initial commit for the 
 
 ## Tech stack
 
-Vue 3
-Tailwind CSS
-covid19-api
-moment.js
+1. Vue 3
+2. Tailwind CSS
+3. covid19-api
+4. moment.js
