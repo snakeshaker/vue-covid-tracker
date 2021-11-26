@@ -1,19 +1,18 @@
-# vue-covid-tracker
+# Vue Covid-19 Tracker
 
-## Project setup
-```
-npm install
-```
+Displays the new/total cases and deaths globaly as well as per country
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## API
 
-### Compiles and minifies for production
-```
-npm run build
-```
+This project uses the [covid19api.com](https://covid19api.com/) by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Vue 3 Syntax
+
+The code has been changed to use Vue 3 syntax. Check the initial commit for the original tutorial code, which should work for Vue 2 & 3
+
+## Tech stack
+
+Vue 3
+Tailwind CSS
+covid19-api
+moment.js
